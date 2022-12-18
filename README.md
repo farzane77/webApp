@@ -1,5 +1,5 @@
 # Java Web Application (Server side)
-this project includes:
+This project includes:
 - MVC
 - JSON
 - Rest
